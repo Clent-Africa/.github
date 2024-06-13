@@ -60,9 +60,70 @@ At CLENT Africa, we leverage technology to solve complex problems and drive impa
 
 We welcome volunteers, partners, and donors to join us in our mission. Together, we can create a sustainable future for Africa.
 
-### Volunteer
+### Contribute/Volunteer
 
-If you're passionate about making a difference and have skills in any of our focus areas, we'd love to hear from you. Please fill this [form](https://forms.gle/gX4WcwsZr2AFPPRHA).
+Anyone is welcome to contribute to our cause. If you're passionate about making a difference and have skills in any of our focus areas, we'd love to hear from you. Please fill this [form](https://forms.gle/gX4WcwsZr2AFPPRHA).
+
+#### Focus Areas for Contributors
+
+### Key Teams for Building CLENT Africa Across Nigeria
+
+1. Leadership and Management Team
+   - Sub Team Director eg. Director of Gender Equality
+   - Operations Manager
+
+2. Program Development and Management Team
+   - Program Managers
+   - Field Coordinators
+
+3. Research and Data Analysis Team
+   - Researchers
+   - Data Analysts
+   - GIS Specialists
+
+4. Renewable Energy and Technology Team
+   - Renewable Energy Experts
+   - Technology Specialists
+   - Engineers
+
+5. Environmental and Sustainability Team
+   - Environmental Scientists
+   - Sustainability Officers
+
+6. Gender Equality and Social Inclusion Team
+   - Gender Specialists
+   - Community Engagement Officers
+
+7. Communications and Public Relations Team
+   - Communications Manager
+   - Social Media Specialists
+   - Content Creators
+
+8. Fundraising and Development Team
+   - Fundraising Manager
+   - Grant Writers
+   - Donor Relations Officers
+
+9. Finance and Administration Team
+   - Finance Manager
+   - Accountants
+   - Administrative Assistants
+
+10. Monitoring and Evaluation Team
+    - M&E Specialists
+    - Impact Assessment Officers
+
+11. Legal and Compliance Team
+    - Legal Advisors
+    - Compliance Officers
+
+12. Human Resources Team
+    - HR Manager
+    - Training and Development Officers
+
+13. Volunteer Coordination Team
+    - Volunteer Coordinator
+    - Volunteer Support Officers
 
 ### Donate
 
