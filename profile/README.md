@@ -62,7 +62,7 @@ We welcome volunteers, partners, and donors to join us in our mission. Together,
 
 ### Volunteer
 
-If you're passionate about making a difference and have skills in any of our focus areas, we'd love to hear from you. Please contact us at [clentafrica@outlook.com](mailto:clentafrica@outlook.com).
+If you're passionate about making a difference and have skills in any of our focus areas, we'd love to hear from you. Please fill this [form](https://forms.gle/gX4WcwsZr2AFPPRHA).
 
 ### Donate
 
