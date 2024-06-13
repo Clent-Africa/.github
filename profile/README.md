@@ -66,8 +66,6 @@ Anyone is welcome to contribute to our cause. If you're passionate about making 
 
 #### Focus Areas for Contributors
 
-### Key Teams for Building CLENT Africa Across Nigeria
-
 1. Leadership and Management Team
    - Sub Team Director eg. Director of Gender Equality
    - Operations Manager
