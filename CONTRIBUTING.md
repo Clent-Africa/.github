@@ -1,6 +1,7 @@
 # Contributing to CLENT Africa
 
-First off, thanks for taking the time to contribute! ❤️
+First off, thank you for your interest in contributing to CLENT Africa and taking the time to contribute! ❤️ 
+By contributing, you help us advance our mission to address climate change, energy, environment, gender equality, and technology challenges across Africa. This document outlines the process for contributing to our projects.
 
 All types of contributions are encouraged and valued. See the [Table of Contents](#table-of-contents) for different ways to help and details about how this project handles them. Please make sure to read the relevant section before making your contribution. It will make it a lot easier for us maintainers and smooth out the experience for all involved. The community looks forward to your contributions. 🎉
 
@@ -25,17 +26,17 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [CLENT Africa Code of Conduct](blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to clentafrica@outlook.com.
+This project and everyone participating in it is governed by the [CLENT Africa Code of Conduct](https://github.com/Clent-Africa/.github/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to clentafrica@outlook.com.
 
 ## I Have a Question
 
-> If you want to ask a question, we assume that you have read the available [Documentation](blob/master/README.md).
+> If you want to ask a question, we assume that you have read the available [Documentation](https://github.com/Clent-Africa/.github/blob/main/profile/README.md).
 
-Before you ask a question, it is best to search for existing [Issues](/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
+Before you ask a question, it is best to search for existing [Issues](https://github.com/Clent-Africa/.github/issues) that might help you. In case you have found a suitable issue and still need clarification, you can write your question in this issue. It is also advisable to search the internet for answers first.
 
 If you still feel the need to ask a question and need clarification, we recommend the following:
 
-- Open an [Issue](/issues/new).
+- Open an [Issue](https://github.com/Clent-Africa/.github/issues/new).
 - Provide as much context as you can about what you're running into.
 - Provide project and platform versions (nodejs, npm, etc), depending on what seems relevant.
 
@@ -53,8 +54,8 @@ When contributing to this project, you must agree that you have authored 100% of
 A good bug report shouldn't leave others needing to chase you up for more information. Therefore, we ask you to investigate carefully, collect information, and describe the issue in detail in your report. Please complete the following steps in advance to help us fix any potential bug as fast as possible.
 
 - Make sure that you are using the latest version.
-- Determine if your bug is really a bug and not an error on your side e.g. using incompatible environment components/versions (Make sure that you have read the [documentation](blob/master/README.md). If you are looking for support, you might want to check [this section](#i-have-a-question)).
-- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [bug tracker](/issues?q=label%3Abug).
+- Determine if your bug is really a bug and not an error on your side e.g. using incompatible environment components/versions (Make sure that you have read the [documentation](https://github.com/Clent-Africa/.github/blob/main/profile/README.md). If you are looking for support, you might want to check [this section](#i-have-a-question)).
+- To see if other users have experienced (and potentially already solved) the same issue you are having, check if there is not already a bug report existing for your bug or error in the [bug tracker](https://github.com/Clent-Africa/.github/labels/bug).
 - Also make sure to search the internet (including Stack Overflow) to see if users outside of the GitHub community have discussed the issue.
 - Collect information about the bug:
   - Stack trace (Traceback)
@@ -69,7 +70,7 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 
 We use GitHub issues to track bugs and errors. If you run into an issue with the project:
 
-- Open an [Issue](/issues/new). (Since we can't be sure at this point whether it is a bug or not, we ask you not to talk about a bug yet and not to label the issue.)
+- Open an [Issue](https://github.com/Clent-Africa/.github/issues/new). (Since we can't be sure at this point whether it is a bug or not, we ask you not to talk about a bug yet and not to label the issue.)
 - Explain the behavior you would expect and the actual behavior.
 - Please provide as much context as possible and describe the reproduction steps that someone else can follow to recreate the issue on their own. This usually includes your code. For good bug reports, you should isolate the problem and create a reduced test case.
 - Provide the information you collected in the previous section.
@@ -87,13 +88,13 @@ This section guides you through submitting an enhancement suggestion for CLENT A
 #### Before Submitting an Enhancement
 
 - Make sure that you are using the latest version.
-- Read the [documentation](blob/master/README.md) carefully and find out if the functionality is already covered, maybe by an individual configuration.
-- Perform a [search](/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
+- Read the [documentation](https://github.com/Clent-Africa/.github/blob/main/profile/README.md) carefully and find out if the functionality is already covered, maybe by an individual configuration.
+- Perform a [search](https://github.com/Clent-Africa/.github/issues) to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 - Find out whether your idea fits with the scope and aims of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Keep in mind that we want features that will be useful to the majority of our users and not just a small subset. If you're just targeting a minority of users, consider writing an add-on/plugin library.
 
 #### How Do I Submit a Good Enhancement Suggestion?
 
-Enhancement suggestions are tracked as [GitHub issues](/issues).
+Enhancement suggestions are tracked as [GitHub issues](https://github.com/Clent-Africa/.github/issues).
 
 - Use a clear and descriptive title for the issue to identify the suggestion.
 - Provide a step-by-step description of the suggested enhancement in as many details as possible.
