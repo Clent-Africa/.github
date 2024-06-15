@@ -1,18 +1,6 @@
 # CLENT Africa
 
-Welcome to the official repository for CLENT Africa! We are a Not-for-Profit dedicated to addressing critical issues related to climate change, energy, environment, gender equality, and technology across Africa.
-
-## Mission Statement
-
-To empower communities across Africa by addressing climate change, promoting sustainable energy, advancing gender equality, fostering innovation, and ensuring environmental stewardship through collaborative and inclusive initiatives.
-
-## Vision Statement
-
-A sustainable and equitable Africa where every community thrives in harmony with the environment, empowered by clean energy, gender equality, and innovative solutions.
-
-## About Us
-
-CLENT Africa is a pioneering NGO focused on creating sustainable and equitable solutions for communities across Africa. Our mission is to drive meaningful change through collaborative and inclusive initiatives that address climate change, energy, environment, gender equality, and technology.
+Welcome to the official repository for CLENT Africa! We are a pioneering NGO focused on creating sustainable and equitable solutions for communities across Africa. Our mission is to drive meaningful change through collaborative and inclusive initiatives that address climate change, energy, environment, gender equality, and technology.
 
 ## Focus Areas
 
@@ -50,15 +38,9 @@ At CLENT Africa, we leverage technology to solve complex problems and drive impa
 - **Social Media and Communication Tools**: Utilizing social media and digital communication tools to raise awareness and advocate for gender equality.
 - **EdTech Solutions**: Implementing educational technology to deliver training and support for women’s empowerment programs.
 
-### Technology
-
-- **Web and Mobile Development**: Building user-friendly websites and mobile applications to facilitate access to information and services.
-- **Cloud Computing**: Leveraging cloud platforms like AWS, Google Cloud, and Azure to store and manage data securely.
-- **Cybersecurity**: Ensuring data protection and privacy through robust cybersecurity measures.
-
 ## Get Involved
 
-We welcome volunteers, partners, and donors to join us in our mission. Together, we can create a sustainable future for Africa.
+We welcome contributors/volunteers, partners, and donors to join us in our mission. Together, we can create a sustainable future for Africa.
 
 ### Contribute/Volunteer
 
