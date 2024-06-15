@@ -1,6 +1,10 @@
 # CLENT Africa
 
-Welcome to the official repository for CLENT Africa! We are a pioneering NGO focused on creating sustainable and equitable solutions for communities across Africa. Our mission is to drive meaningful change through collaborative and inclusive initiatives that address climate change, energy, environment, gender equality, and technology.
+Welcome to the official repository for CLENT Africa! We are a pioneering NGO focused on creating sustainable and equitable solutions for communities across Africa. Africa is facing a profound crisis as it is disproportionately affected by climate change. Extreme weather events, like droughts and floods, are devastating agriculture and displacing communities in Eastern and Southern Africa ([UN Office for the Coordination of Humanitarian Affairs](https://www.unocha.org/news/seven-things-you-need-know-about-climate-change-eastern-and-southern-africa)). Africa’s low adaptive capacity and high dependence on natural resources make it uniquely vulnerable to these climate impacts ([UN Environment Programme](https://www.unep.org/regions/africa/regional-initiatives/responding-climate-change)). This threat is compounded by severe health consequences, including malnutrition and disease ([Carbon Brief](https://www.carbonbrief.org/in-depth-how-climate-change-affects-health-in-africa)).
+
+Despite contributing the least to global emissions, Africa bears the brunt of climate change ([UNFCCC](https://unfccc.int/news/climate-change-is-an-increasing-threat-to-africa)). The African Development Bank warns that without significant intervention, climate change will undo decades of development progress ([African Development Bank](https://www.afdb.org/en/cop25/climate-change-africa)). It’s a crisis that demands urgent action and investment in adaptation and resilience.
+
+CLENT Africa is dedicated to addressing these challenges through initiatives focused on climate change, sustainable energy, environmental conservation, and gender equality. We invite you to join us in this critical mission. Your time, donations, and partnerships can help us build resilient communities and promote sustainable development across the continent.
 
 ## Focus Areas
 
