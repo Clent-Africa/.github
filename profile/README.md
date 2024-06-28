@@ -54,17 +54,17 @@ Anyone is welcome to contribute to our cause. If you're passionate about making 
 
 ### Donate
 
-Your contributions help us implement projects and reach more communities. For donation details, please email us at [clentafrica@outlook.com](mailto:clentafrica@outlook.com).
+Your contributions help us implement projects and reach more communities. For donation details, please email us at [info@clentafrica.org](mailto:info@clentafrica.org).
 
 ### Partner
 
-We are always looking for organizations and individuals to collaborate with. To discuss partnership opportunities, contact us at [clentafrica@outlook.com](mailto:clentafrica@outlook.com).
+We are always looking for organizations and individuals to collaborate with. To discuss partnership opportunities, contact us at [info@clentafrica.org](mailto:info@clentafrica.org).
 
 ## Contact Us
 
 For any inquiries, please reach out to us at:
 
-**Email:** [clentafrica@outlook.com](mailto:clentafrica@outlook.com)
+**Email:** [info@clentafrica.org](mailto:info@clentafrica.org)
 
 ## License
 
