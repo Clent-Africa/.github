@@ -1,3 +1,5 @@
+<img width="792" alt="Professional LinkedIn Banner" src="https://github.com/clentafrica/.github/assets/99066793/31295c5b-606b-4aa4-abcf-a4afb8c9d8df">
+
 # CLENT Africa
 
 Welcome to the official repository for CLENT Africa! We are a pioneering open source organisation focused on creating sustainable and equitable solutions for communities across Africa. 
