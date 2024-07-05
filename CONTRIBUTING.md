@@ -26,7 +26,7 @@ All types of contributions are encouraged and valued. See the [Table of Contents
 
 ## Code of Conduct
 
-This project and everyone participating in it is governed by the [CLENT Africa Code of Conduct](https://github.com/Clent-Africa/.github/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to clentafrica@outlook.com.
+This project and everyone participating in it is governed by the [CLENT Africa Code of Conduct](https://github.com/Clent-Africa/.github/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to info@clentafrica.org.
 
 ## I Have a Question
 
@@ -66,7 +66,7 @@ A good bug report shouldn't leave others needing to chase you up for more inform
 
 #### How Do I Submit a Good Bug Report?
 
-> You must never report security-related issues, vulnerabilities, or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead, sensitive bugs must be sent by email to clentafrica@outlook.com.
+> You must never report security-related issues, vulnerabilities, or bugs including sensitive information to the issue tracker, or elsewhere in public. Instead, sensitive bugs must be sent by email to info@clentafrica.org.
 
 We use GitHub issues to track bugs and errors. If you run into an issue with the project:
 
@@ -121,7 +121,7 @@ You can help improve the documentation by finding typos, clarifying instructions
 
 ## Join The Project Team
 
-Interested in becoming a core contributor? Reach out to us via email at clentafrica@outlook.com to express your interest and tell us how you would like to contribute.
+Interested in becoming a core contributor? Reach out to us via email at info@clentafrica.org to express your interest and tell us how you would like to contribute.
 
 ## Attribution
 

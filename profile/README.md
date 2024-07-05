@@ -1,6 +1,8 @@
+<img width="792" alt="Professional LinkedIn Banner" src="https://github.com/clentafrica/.github/assets/99066793/31295c5b-606b-4aa4-abcf-a4afb8c9d8df">
+
 # CLENT Africa
 
-Welcome to the official repository for CLENT Africa! We are a pioneering NGO focused on creating sustainable and equitable solutions for communities across Africa. 
+Welcome to the official repository for CLENT Africa! We are a pioneering open source organisation focused on creating sustainable and equitable solutions for communities across Africa. 
 
 Africa is facing a profound crisis as it is disproportionately affected by climate change. Extreme weather events, like droughts and floods, are devastating agriculture and displacing communities in Eastern and Southern Africa ([UN Office for the Coordination of Humanitarian Affairs](https://www.unocha.org/news/seven-things-you-need-know-about-climate-change-eastern-and-southern-africa)). Africa’s low adaptive capacity and high dependence on natural resources make it uniquely vulnerable to these climate impacts ([UN Environment Programme](https://www.unep.org/regions/africa/regional-initiatives/responding-climate-change)). This threat is compounded by severe health consequences, including malnutrition and disease ([Carbon Brief](https://www.carbonbrief.org/in-depth-how-climate-change-affects-health-in-africa)).
 
@@ -54,17 +56,17 @@ Anyone is welcome to contribute to our cause. If you're passionate about making 
 
 ### Donate
 
-Your contributions help us implement projects and reach more communities. For donation details, please email us at [clentafrica@outlook.com](mailto:clentafrica@outlook.com).
+Your contributions help us implement projects and reach more communities. For donation details, please email us at [info@clentafrica.org](mailto:info@clentafrica.org).
 
 ### Partner
 
-We are always looking for organizations and individuals to collaborate with. To discuss partnership opportunities, contact us at [clentafrica@outlook.com](mailto:clentafrica@outlook.com).
+We are always looking for organizations and individuals to collaborate with. To discuss partnership opportunities, contact us at [info@clentafrica.org](mailto:info@clentafrica.org).
 
 ## Contact Us
 
 For any inquiries, please reach out to us at:
 
-**Email:** [clentafrica@outlook.com](mailto:clentafrica@outlook.com)
+**Email:** [info@clentafrica.org](mailto:info@clentafrica.org)
 
 ## License
 
